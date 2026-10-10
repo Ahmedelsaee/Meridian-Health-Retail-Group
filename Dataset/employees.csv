@@ -1,0 +1,121 @@
+employee_id,store_id,employee_name,email,position,salary,hire_date,is_pharmacist
+1,4,Staff_Member_1,staff_member_1@company.com,Sales Associate,8830.5,2020-05-06,0
+2,9,Staff_Member_2,staff_member_2@company.com,Inventory Specialist,6570.51,2024-05-27,0
+3,1,Staff_Member_3,staff_member_3@company.com,Inventory Specialist,6690.47,2023-12-03,0
+4,1,Staff_Member_4,staff_member_4@company.com,Sales Associate,4809.3,2019-10-13,1
+5,7,Staff_Member_5,staff_member_5@company.com,Sales Associate,8930.54,2018-01-04,0
+6,9,Staff_Member_6,staff_member_6@company.com,Inventory Specialist,5889.7,2020-04-29,0
+7,7,Staff_Member_7,staff_member_7@company.com,Inventory Specialist,5187.55,2018-02-08,0
+8,2,Staff_Member_8,staff_member_8@company.com,Store Manager,7443.98,2023-10-22,0
+9,8,Staff_Member_9,staff_member_9@company.com,Inventory Specialist,9289.79,2024-08-22,1
+10,2,Staff_Member_10,staff_member_10@company.com,Pharmacist,6057.5,2018-11-11,1
+11,2,Staff_Member_11,staff_member_11@company.com,Sales Associate,9392.78,2022-06-02,0
+12,11,Staff_Member_12,staff_member_12@company.com,Sales Associate,7381.54,2018-10-30,0
+13,2,Staff_Member_13,staff_member_13@company.com,Technician,6822.72,2020-10-11,0
+14,3,Staff_Member_14,staff_member_14@company.com,Sales Associate,9299.02,2024-05-28,0
+15,10,Staff_Member_15,staff_member_15@company.com,Technician,8128.03,2021-04-14,0
+16,10,Staff_Member_16,staff_member_16@company.com,Technician,6188.24,2024-09-23,0
+17,1,Staff_Member_17,staff_member_17@company.com,Technician,3545.88,2021-10-25,0
+18,12,Staff_Member_18,staff_member_18@company.com,Pharmacist,9428.81,2022-02-14,0
+19,7,Staff_Member_19,staff_member_19@company.com,Sales Associate,7839.49,2025-01-22,0
+20,5,Staff_Member_20,staff_member_20@company.com,Pharmacist,4049.85,2020-03-05,0
+21,3,Staff_Member_21,staff_member_21@company.com,Pharmacist,7029.2,2025-10-08,0
+22,5,Staff_Member_22,staff_member_22@company.com,Pharmacist,5459.16,2020-02-12,0
+23,2,Staff_Member_23,staff_member_23@company.com,Store Manager,7658.69,2022-06-25,1
+24,9,Staff_Member_24,staff_member_24@company.com,Technician,6496.81,2021-04-02,0
+25,9,Staff_Member_25,staff_member_25@company.com,Technician,7238.04,2024-12-04,0
+26,2,Staff_Member_26,staff_member_26@company.com,Technician,4882.73,2023-05-15,0
+27,9,Staff_Member_27,staff_member_27@company.com,Technician,3690.0,2020-11-23,0
+28,2,Staff_Member_28,staff_member_28@company.com,Store Manager,6241.74,2022-02-02,1
+29,1,Staff_Member_29,staff_member_29@company.com,Technician,3896.76,2019-01-17,1
+30,8,Staff_Member_30,staff_member_30@company.com,Technician,6981.33,2025-02-03,0
+31,4,Staff_Member_31,staff_member_31@company.com,Store Manager,4546.77,2025-09-29,0
+32,2,Staff_Member_32,staff_member_32@company.com,Inventory Specialist,6029.94,2020-06-28,1
+33,10,Staff_Member_33,staff_member_33@company.com,Store Manager,9799.85,2022-04-10,0
+34,4,Staff_Member_34,staff_member_34@company.com,Store Manager,3508.47,2024-01-11,1
+35,2,Staff_Member_35,staff_member_35@company.com,Sales Associate,6135.14,2021-06-20,0
+36,12,Staff_Member_36,staff_member_36@company.com,Sales Associate,7766.53,2025-10-03,1
+37,9,Staff_Member_37,staff_member_37@company.com,Technician,7795.47,2021-12-11,0
+38,10,Staff_Member_38,staff_member_38@company.com,Inventory Specialist,5052.66,2017-12-25,1
+39,10,Staff_Member_39,staff_member_39@company.com,Store Manager,8375.98,2021-08-11,0
+40,5,Staff_Member_40,staff_member_40@company.com,Inventory Specialist,6272.14,2017-10-09,0
+41,7,Staff_Member_41,staff_member_41@company.com,Store Manager,8550.94,2021-11-15,1
+42,4,Staff_Member_42,staff_member_42@company.com,Technician,7007.24,2025-02-17,0
+43,2,Staff_Member_43,staff_member_43@company.com,Technician,3793.76,2020-11-25,0
+44,11,Staff_Member_44,staff_member_44@company.com,Store Manager,7031.42,2022-02-10,0
+45,2,Staff_Member_45,staff_member_45@company.com,Store Manager,5965.62,2024-02-11,0
+46,3,Staff_Member_46,staff_member_46@company.com,Pharmacist,6660.27,2020-02-05,1
+47,5,Staff_Member_47,staff_member_47@company.com,Inventory Specialist,9747.92,2018-04-23,0
+48,1,Staff_Member_48,staff_member_48@company.com,Technician,7742.84,2022-11-15,0
+49,6,Staff_Member_49,staff_member_49@company.com,Store Manager,4942.67,2021-05-01,1
+50,1,Staff_Member_50,staff_member_50@company.com,Inventory Specialist,8427.1,2022-03-12,1
+51,9,Staff_Member_51,staff_member_51@company.com,Store Manager,4398.18,2023-01-22,0
+52,9,Staff_Member_52,staff_member_52@company.com,Pharmacist,7526.84,2025-01-04,0
+53,3,Staff_Member_53,staff_member_53@company.com,Technician,4826.04,2025-02-27,0
+54,1,Staff_Member_54,staff_member_54@company.com,Inventory Specialist,5880.94,2020-03-31,0
+55,10,Staff_Member_55,staff_member_55@company.com,Technician,8162.43,2024-10-26,0
+56,4,Staff_Member_56,staff_member_56@company.com,Inventory Specialist,3515.01,2020-02-03,0
+57,8,Staff_Member_57,staff_member_57@company.com,Inventory Specialist,4165.38,2020-06-30,1
+58,1,Staff_Member_58,staff_member_58@company.com,Pharmacist,6294.37,2024-08-26,0
+59,1,Staff_Member_59,staff_member_59@company.com,Inventory Specialist,5001.62,2024-09-06,1
+60,12,Staff_Member_60,staff_member_60@company.com,Store Manager,5355.03,2024-06-18,1
+61,9,Staff_Member_61,staff_member_61@company.com,Pharmacist,8773.88,2018-08-03,1
+62,7,Staff_Member_62,staff_member_62@company.com,Inventory Specialist,6196.87,2024-01-16,0
+63,11,Staff_Member_63,staff_member_63@company.com,Inventory Specialist,8834.14,2025-11-18,0
+64,11,Staff_Member_64,staff_member_64@company.com,Inventory Specialist,7514.8,2024-10-31,0
+65,9,Staff_Member_65,staff_member_65@company.com,Sales Associate,7630.02,2020-05-06,0
+66,6,Staff_Member_66,staff_member_66@company.com,Technician,4187.4,2019-06-21,0
+67,10,Staff_Member_67,staff_member_67@company.com,Technician,7317.51,2017-10-19,0
+68,1,Staff_Member_68,staff_member_68@company.com,Store Manager,7284.13,2023-05-20,0
+69,2,Staff_Member_69,staff_member_69@company.com,Pharmacist,9944.97,2025-02-26,0
+70,4,Staff_Member_70,staff_member_70@company.com,Inventory Specialist,3789.46,2018-04-24,0
+71,10,Staff_Member_71,staff_member_71@company.com,Store Manager,8330.81,2022-05-09,0
+72,6,Staff_Member_72,staff_member_72@company.com,Store Manager,6103.59,2023-09-04,1
+73,2,Staff_Member_73,staff_member_73@company.com,Technician,4915.59,2022-09-13,0
+74,6,Staff_Member_74,staff_member_74@company.com,Pharmacist,9318.44,2019-11-24,1
+75,10,Staff_Member_75,staff_member_75@company.com,Technician,6216.28,2024-03-16,0
+76,5,Staff_Member_76,staff_member_76@company.com,Inventory Specialist,9129.39,2022-01-23,0
+77,6,Staff_Member_77,staff_member_77@company.com,Technician,9289.24,2018-03-06,1
+78,6,Staff_Member_78,staff_member_78@company.com,Sales Associate,5182.31,2018-07-02,0
+79,1,Staff_Member_79,staff_member_79@company.com,Sales Associate,5621.46,2023-07-13,0
+80,8,Staff_Member_80,staff_member_80@company.com,Store Manager,6848.06,2024-03-28,0
+81,11,Staff_Member_81,staff_member_81@company.com,Technician,6378.95,2019-05-11,0
+82,1,Staff_Member_82,staff_member_82@company.com,Sales Associate,4366.02,2021-06-01,0
+83,2,Staff_Member_83,staff_member_83@company.com,Inventory Specialist,9295.94,2022-03-28,0
+84,7,Staff_Member_84,staff_member_84@company.com,Sales Associate,9064.04,2018-04-21,1
+85,8,Staff_Member_85,staff_member_85@company.com,Technician,9544.07,2019-12-30,0
+86,1,Staff_Member_86,staff_member_86@company.com,Store Manager,6940.95,2024-12-06,1
+87,10,Staff_Member_87,staff_member_87@company.com,Technician,9191.67,2019-02-11,0
+88,3,Staff_Member_88,staff_member_88@company.com,Pharmacist,9562.24,2019-07-21,1
+89,2,Staff_Member_89,staff_member_89@company.com,Store Manager,9222.09,2017-09-28,0
+90,10,Staff_Member_90,staff_member_90@company.com,Technician,8963.6,2020-04-04,0
+91,8,Staff_Member_91,staff_member_91@company.com,Pharmacist,9339.03,2022-08-23,0
+92,5,Staff_Member_92,staff_member_92@company.com,Technician,8420.1,2019-02-15,0
+93,12,Staff_Member_93,staff_member_93@company.com,Technician,4760.33,2017-11-29,0
+94,8,Staff_Member_94,staff_member_94@company.com,Sales Associate,3903.6,2019-10-21,0
+95,7,Staff_Member_95,staff_member_95@company.com,Sales Associate,6545.9,2023-07-13,1
+96,6,Staff_Member_96,staff_member_96@company.com,Sales Associate,4130.86,2024-04-29,0
+97,11,Staff_Member_97,staff_member_97@company.com,Pharmacist,5357.43,2023-12-23,0
+98,1,Staff_Member_98,staff_member_98@company.com,Technician,9411.96,2021-01-24,0
+99,6,Staff_Member_99,staff_member_99@company.com,Store Manager,4279.79,2024-12-03,0
+100,12,Staff_Member_100,staff_member_100@company.com,Technician,9591.32,2019-04-13,0
+101,10,Staff_Member_101,staff_member_101@company.com,Pharmacist,4207.21,2020-11-15,0
+102,12,Staff_Member_102,staff_member_102@company.com,Store Manager,8437.52,2024-04-03,0
+103,2,Staff_Member_103,staff_member_103@company.com,Store Manager,9991.47,2021-08-26,0
+104,7,Staff_Member_104,staff_member_104@company.com,Technician,6600.7,2018-04-13,0
+105,5,Staff_Member_105,staff_member_105@company.com,Pharmacist,9602.77,2025-08-29,0
+106,9,Staff_Member_106,staff_member_106@company.com,Store Manager,9611.36,2022-01-01,0
+107,6,Staff_Member_107,staff_member_107@company.com,Inventory Specialist,7784.19,2022-04-07,0
+108,12,Staff_Member_108,staff_member_108@company.com,Sales Associate,8117.52,2024-09-21,0
+109,8,Staff_Member_109,staff_member_109@company.com,Pharmacist,7786.28,2022-12-17,0
+110,2,Staff_Member_110,staff_member_110@company.com,Sales Associate,3701.84,2018-05-31,0
+111,9,Staff_Member_111,staff_member_111@company.com,Sales Associate,7155.3,2022-12-15,1
+112,8,Staff_Member_112,staff_member_112@company.com,Store Manager,9521.43,2025-11-01,0
+113,5,Staff_Member_113,staff_member_113@company.com,Sales Associate,8377.6,2024-09-03,0
+114,2,Staff_Member_114,staff_member_114@company.com,Pharmacist,8246.76,2018-06-03,0
+115,3,Staff_Member_115,staff_member_115@company.com,Technician,8716.7,2023-02-05,0
+116,8,Staff_Member_116,staff_member_116@company.com,Sales Associate,5669.16,2021-03-01,0
+117,10,Staff_Member_117,staff_member_117@company.com,Pharmacist,4853.38,2025-07-10,0
+118,1,Staff_Member_118,staff_member_118@company.com,Pharmacist,3626.92,2022-05-05,1
+119,5,Staff_Member_119,staff_member_119@company.com,Store Manager,4834.33,2020-10-26,0
+120,9,Staff_Member_120,staff_member_120@company.com,Technician,3788.86,2019-06-02,0
